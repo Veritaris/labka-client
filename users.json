@@ -1,0 +1,35 @@
+[ {
+  "studentsCount" : 20,
+  "expelledStudents" : 4,
+  "shouldBeExpelled" : 2,
+  "name" : "P3231",
+  "coordinates" : {
+    "x" : 1,
+    "y" : 2
+  },
+  "admin" : {
+    "country" : "GERMANY",
+    "weight" : 71,
+    "nameGroupAdmin" : "TestUser",
+    "height" : 178.8
+  },
+  "semester" : "SECOND",
+  "id" : 1
+}, {
+  "studentsCount" : 21,
+  "expelledStudents" : 4,
+  "shouldBeExpelled" : 2,
+  "name" : "W3404",
+  "coordinates" : {
+    "x" : -1,
+    "y" : 5
+  },
+  "admin" : {
+    "country" : "INDIA",
+    "weight" : 74,
+    "nameGroupAdmin" : "Veritaris",
+    "height" : 175.7
+  },
+  "semester" : "FIFTH",
+  "id" : 2
+} ]
